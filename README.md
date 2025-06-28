@@ -4,6 +4,10 @@ This project is a real-time face recognition-based attendance system built using
 
 ---
 
+## Screenshot
+![Screenshot 2025-06-28 012620](https://github.com/user-attachments/assets/39289aa0-c73c-4649-b852-b3c8edb25d44)
+
+---
 ## 🛠️ Features
 
 - Real-time face detection and recognition using webcam
